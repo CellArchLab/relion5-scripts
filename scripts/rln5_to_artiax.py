@@ -1,4 +1,4 @@
-#!/scicore/projects/scicore-p-structsoft/ubuntu/software/Miniconda3/miniconda3_python3.12.1/envs/relion-5.0/bin/python
+#!/usr/bin/env python
 
 import argparse
 import starfile
